@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Marius Agur tech-time
-email: no-reply@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The number 1 source of technical information on the Microsoft cloud
   with a focus on Dynamics 365, Power Platform, Microsoft Contact Center,
