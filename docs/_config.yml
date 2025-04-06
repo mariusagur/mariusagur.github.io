@@ -20,9 +20,9 @@
 
 title: Marius Agur tech-time
 description: >- # this means to ignore newlines until "baseurl:"
-  The number 1 source of technical information on the Microsoft cloud
-  with a focus on Dynamics 365, Power Platform, Microsoft Contact Center,
-  Fabric and Purview
+  The number 1 source of technical information on the Microsoft cloud,
+  focusing on Dynamics 365, Power Platform, Microsoft Contact Center,
+  Copilot Studio, Fabric and Purview
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.agur.no" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mariusagur
