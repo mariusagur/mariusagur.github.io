@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marius Agur tech-time
+title: Tech time with Marius Agur
 description: >- # this means to ignore newlines until "baseurl:"
   The number 1 source of technical information on the Microsoft cloud,
   focusing on Dynamics 365, Power Platform, Microsoft Contact Center,
